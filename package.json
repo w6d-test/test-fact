@@ -1,0 +1,23 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "nodeapp package",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo test",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.staging.w6d.io"
+  },
+  "author": "David ALEXANDRE <david.alexandre@w6d.io>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "express": "^4.16.4",
+    "mocha": "^6.1.4",
+    "npm": "^6.9.0",
+    "request": "^2.88.0"
+  }
+}
